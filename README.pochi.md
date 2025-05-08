@@ -1,5 +1,7 @@
 Use **Bun** over npm.
 
+Run `bun install` to ensure all dependencies are installed correctly.
+
 Please start dev server as soon as possible, with `bun dev` command. This will help you to see the changes in real time.
 
 This repository is pre-initialized with React 19, Next.js 15, Tailwind CSS v4 and shadcn/ui. All shadcn components are included in the repository, allowing you to use them directly.
