@@ -15,3 +15,5 @@ When creating page, prefer make it a fully client side component ("use client")
 Pay attention to page's layout, most of time for a landing page we want the content to be centered, and the header and footer to be full width.
 
 Main entry of the page shall be `src/app/page.tsx`, and the main layout of the page shall be `src/app/layout.tsx` (it also contains `metadata` object which allows customization of title and description of the page).
+
+DO NOT use `container` class, as it's no longer best practice in Tailwind CSS v4.
