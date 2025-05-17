@@ -124,3 +124,9 @@
     cursor: pointer;
   }
 }
+
+@layer utilities {
+  .container {
+    @apply mx-auto;
+  }
+}
