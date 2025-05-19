@@ -8,7 +8,7 @@ This repository is pre-initialized with React 19, Next.js 15, Tailwind CSS v4 an
 
 when creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste.
 
-If not specified by user, prefer using futurism (dark mode) style for the landing page.
+If not specified by user, prefer using futurism (dark mode, e.g purple-ish) style for the landing page.
 
 When creating page, prefer make it a fully client side component ("use client")
 
