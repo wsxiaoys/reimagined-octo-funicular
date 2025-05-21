@@ -6,7 +6,7 @@ Please start dev server as soon as possible, with `bun dev` command. This will h
 
 This repository is pre-initialized with React 19, Next.js 15, Tailwind CSS v4 and shadcn/ui. All shadcn components are included in the repository, allowing you to use them directly.
 
-when creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste.
+when creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste. Consider install `framer-motion` for animation to make the page more lively.
 
 If not specified by user, prefer using futurism (dark mode, e.g purple-ish) style for the landing page.
 
