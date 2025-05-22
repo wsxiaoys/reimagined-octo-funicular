@@ -1,12 +1,12 @@
 Use **Bun** over npm.
-
 Run `bun install` to ensure all dependencies are installed correctly.
-
 Please start dev server as soon as possible, with `bun dev` command. This will help you to see the changes in real time.
 
 This repository is pre-initialized with React 19, Next.js 15, Tailwind CSS v4 and shadcn/ui. All shadcn components are included in the repository, allowing you to use them directly.
 
-when creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste. Consider install `framer-motion` for animation to make the page more lively.
+When creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste. Consider install `framer-motion` for animation to make the page more lively.
+
+**Avoid generating placeholder content**: Use real images from Unsplash API (`https://source.unsplash.com/`), Lucide React icons instead of placeholder SVG/JPG. For avatars, use `https://ui-avatars.com/api/` to generate realistic user avatars.
 
 If not specified by user, prefer using futurism (dark mode, e.g purple-ish) style for the landing page.
 
