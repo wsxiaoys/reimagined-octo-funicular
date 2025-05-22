@@ -6,7 +6,7 @@ This repository is pre-initialized with React 19, Next.js 15, Tailwind CSS v4 an
 
 When creating a landing page, make it content-rich (e.g add testimonials, feature sections, waitlist registration, pricing sections). Make it looks professional and decent, with a good aesthetic taste. Consider install `framer-motion` for animation to make the page more lively.
 
-**Avoid generating placeholder content**: Use real images from Picsum API (`https://picsum.photos/1024/1024?random=` + random number for cache busting), Lucide React icons instead of placeholder SVG/JPG/PNG/etc images. For avatars, use `https://ui-avatars.com/api/` to generate realistic user avatars, until user require to generate SVG/JPG/PNG/etc images.
+Avoid generating placeholder content. Use real images from Picsum API (`https://picsum.photos/1024/1024?random=` + random number for cache busting), Lucide React icons instead of placeholder SVG/JPG/PNG/etc images. For avatars, use `https://ui-avatars.com/api/` to generate realistic user avatars, until user require to generate SVG/JPG/PNG/etc images.
 
 
 If not specified by user, prefer using futurism (dark mode, e.g purple-ish) style for the landing page.
