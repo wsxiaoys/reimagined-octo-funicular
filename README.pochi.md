@@ -16,3 +16,5 @@ When creating page, prefer make it a fully client side component ("use client")
 Pay attention to page's layout, most of time for a landing page we want the content to be centered, and the header and footer to be full width.
 
 Main entry of the page shall be `src/app/page.tsx`, and the main layout of the page shall be `src/app/layout.tsx` (it also contains `metadata` object which allows customization of title and description of the page). Prefer write the whole app in `src/app/page.tsx` instead of creating multiple components, unless the page is too long or complex.
+
+If you're going to make the page in dark theme, make sure to set the `className` of the root element to `dark` in `src/app/layout.tsx`. This will ensure that the dark theme is applied correctly.
